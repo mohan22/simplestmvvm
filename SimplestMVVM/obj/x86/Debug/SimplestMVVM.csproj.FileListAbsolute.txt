@@ -1,0 +1,29 @@
+C:\Users\shweta_lodha\Desktop\Mine\SimplestMVVM\SimplestMVVM\bin\Debug\SimplestMVVM.exe
+C:\Users\shweta_lodha\Desktop\Mine\SimplestMVVM\SimplestMVVM\bin\Debug\SimplestMVVM.pdb
+C:\Users\shweta_lodha\Desktop\Mine\SimplestMVVM\SimplestMVVM\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\shweta_lodha\Desktop\Mine\SimplestMVVM\SimplestMVVM\obj\x86\Debug\View\MainWindow.g.cs
+C:\Users\shweta_lodha\Desktop\Mine\SimplestMVVM\SimplestMVVM\obj\x86\Debug\App.g.cs
+C:\Users\shweta_lodha\Desktop\Mine\SimplestMVVM\SimplestMVVM\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\shweta_lodha\Desktop\Mine\SimplestMVVM\SimplestMVVM\obj\x86\Debug\SimplestMVVM_MarkupCompile.cache
+C:\Users\shweta_lodha\Desktop\Mine\SimplestMVVM\SimplestMVVM\obj\x86\Debug\SimplestMVVM_MarkupCompile.lref
+C:\Users\shweta_lodha\Desktop\Mine\SimplestMVVM\SimplestMVVM\obj\x86\Debug\View\MainWindow.baml
+C:\Users\shweta_lodha\Desktop\Mine\SimplestMVVM\SimplestMVVM\obj\x86\Debug\SimplestMVVM.g.resources
+C:\Users\shweta_lodha\Desktop\Mine\SimplestMVVM\SimplestMVVM\obj\x86\Debug\SimplestMVVM.Properties.Resources.resources
+C:\Users\shweta_lodha\Desktop\Mine\SimplestMVVM\SimplestMVVM\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\shweta_lodha\Desktop\Mine\SimplestMVVM\SimplestMVVM\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\shweta_lodha\Desktop\Mine\SimplestMVVM\SimplestMVVM\obj\x86\Debug\SimplestMVVM.exe
+C:\Users\shweta_lodha\Desktop\Mine\SimplestMVVM\SimplestMVVM\obj\x86\Debug\SimplestMVVM.pdb
+D:\Visual studio 2013\SimplestMVVM\SimplestMVVM\obj\x86\Debug\SimplestMVVM.exe
+D:\Visual studio 2013\SimplestMVVM\SimplestMVVM\obj\x86\Debug\SimplestMVVM.pdb
+D:\Visual studio 2013\SimplestMVVM\SimplestMVVM\bin\Debug\SimplestMVVM.exe
+D:\Visual studio 2013\SimplestMVVM\SimplestMVVM\bin\Debug\SimplestMVVM.pdb
+D:\Visual studio 2013\SimplestMVVM\SimplestMVVM\obj\x86\Debug\SimplestMVVM.csprojResolveAssemblyReference.cache
+D:\Visual studio 2013\SimplestMVVM\SimplestMVVM\obj\x86\Debug\View\MainWindow.g.cs
+D:\Visual studio 2013\SimplestMVVM\SimplestMVVM\obj\x86\Debug\App.g.cs
+D:\Visual studio 2013\SimplestMVVM\SimplestMVVM\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Visual studio 2013\SimplestMVVM\SimplestMVVM\obj\x86\Debug\SimplestMVVM_MarkupCompile.cache
+D:\Visual studio 2013\SimplestMVVM\SimplestMVVM\obj\x86\Debug\SimplestMVVM_MarkupCompile.lref
+D:\Visual studio 2013\SimplestMVVM\SimplestMVVM\obj\x86\Debug\View\MainWindow.baml
+D:\Visual studio 2013\SimplestMVVM\SimplestMVVM\obj\x86\Debug\SimplestMVVM.g.resources
+D:\Visual studio 2013\SimplestMVVM\SimplestMVVM\obj\x86\Debug\SimplestMVVM.Properties.Resources.resources
+D:\Visual studio 2013\SimplestMVVM\SimplestMVVM\obj\x86\Debug\SimplestMVVM.csproj.GenerateResource.Cache

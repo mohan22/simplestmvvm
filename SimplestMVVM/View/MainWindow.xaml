@@ -1,0 +1,32 @@
+﻿<Window x:Class="SimplestMVVM.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:SimplestMVVM.ViewModel"
+        Title="MVVM" Height="500" Width="600">
+    <Window.DataContext>
+        <local:StudentsViewModel x:Name="ViewModel"/>
+    </Window.DataContext>
+    <Grid>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto" />
+        </Grid.ColumnDefinitions>
+        <StackPanel Margin="0,4,20,-4">
+            <ListView Name="ListViewStudentDetails" Grid.Row="2" ItemsSource="{Binding StudentList}">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="Name" DisplayMemberBinding="{Binding FirstName}"/>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+        </StackPanel>
+        <TextBox HorizontalAlignment="Left" Height="32" Margin="387,21,-345,0" TextWrapping="Wrap" Text="{Binding SelectedFirstName}" VerticalAlignment="Top" Width="97"/>
+        <Button Command="{Binding UpdateStudentNameCommand}" CommandParameter="{Binding SelectedItem, ElementName=ListViewStudentDetails}"  Content="Show" RenderTransformOrigin="0.582,0.517" Margin="268,196,-197,237"/>
+        <TextBox HorizontalAlignment="Left" Height="30" Margin="387,86,-344,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="97" Text="{Binding SelectedLastName}"/>
+        <TextBox HorizontalAlignment="Left" Height="33" Margin="387,148,-343,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="97" Text="{Binding SelectedCity}"/>
+        <TextBlock HorizontalAlignment="Left" Height="32" Margin="258,21,-207,0" TextWrapping="Wrap" Text="First Name" VerticalAlignment="Top" Width="101"/>
+        <TextBlock HorizontalAlignment="Left" Height="30" Margin="258,86,-208,0" TextWrapping="Wrap" Text="Last Name" VerticalAlignment="Top" Width="101"/>
+        <TextBlock HorizontalAlignment="Left" Height="33" Margin="263,148,-209,0" TextWrapping="Wrap" Text="City" VerticalAlignment="Top" Width="96"/>
+        <Button Content="Add" HorizontalAlignment="Left" Height="36" Margin="400,196,-331,0" VerticalAlignment="Top" Width="84"/>
+    </Grid>
+</Window>
